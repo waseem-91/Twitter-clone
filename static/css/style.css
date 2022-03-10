@@ -124,4 +124,7 @@ img.menu_icon.js-menu-icon{
   .posts li .name_body .name {
       font-size: 20px;
   }
+  #Tweet{
+    width: 40%;
+  }
 }
